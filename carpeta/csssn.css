@@ -1,0 +1,22 @@
+nav{
+    background-color: brown;
+display: block;
+padding: 2% 2%;
+font-size: x-large;
+font-style: italic;
+text-decoration: aliceblue;
+}
+body{
+    background-color: rgb(129, 133, 129);
+}
+h2{
+    color: beige;
+    text-align: center;
+    font-size: x-large;
+}
+h3{
+    color: rgb(190, 190, 5);
+    text-align: center;
+    font-size: x-large;
+
+}

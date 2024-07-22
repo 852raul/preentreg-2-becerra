@@ -1,0 +1,32 @@
+
+
+body{
+    background-color: rgb(129, 133, 129);
+}
+h1 {
+    color: #ca0808;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+
+}
+ 
+p{
+    padding-left: 50%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #330c53;
+    padding: 20px 30px;
+    border-color: black;
+}
+nav{
+    background-color: brown;
+display: block;
+padding: 2% 2%;
+font-size: x-large;
+font-style: italic;
+text-decoration: aliceblue;
+}
+footer{
+ padding: 5%;
+    background-color: rgb(rgb(250, 24, 24), green, blue);
+}
