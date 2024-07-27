@@ -15,10 +15,15 @@ h2{
     font-size: x-large;
 }
 h3{
-    color: rgb(190, 190, 5);
+   margin: 0;
+    color: rgb(190, 94, 5);
     text-align: center;
     font-size: x-large;
 
 }
 
-
+footer{
+    padding-block: 50px;
+    background-color: darkgrey;
+    border-radius: 30%;
+}
