@@ -9,14 +9,19 @@ text-decoration: aliceblue;
 body{
     background-color: rgb(129, 133, 129);
 }
-h2{
-    color: beige;
+h1{
+    color: rgb(3, 3, 1);
     text-align: center;
-    font-size: x-large;
+    font-size: 5rem;
 }
 h3{
-    color: rgb(190, 190, 5);
+    color: rgb(190, 94, 5);
     text-align: center;
     font-size: x-large;
 
+}
+.conteiner2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
 }

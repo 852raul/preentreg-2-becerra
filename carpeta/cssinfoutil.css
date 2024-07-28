@@ -9,16 +9,17 @@ text-decoration: aliceblue;
 body{
     background-color: rgb(129, 133, 129);
 }
+h1{
+    color: rgb(8, 8, 1);
+    text-align: center;
+    font-size: 5rem ;
+}
 h2{
-    color: beige;
+    color: rgb(190, 94, 5);
     text-align: center;
     font-size: x-large;
 }
-h3{
-    color: rgb(190, 190, 5);
+.P{ color: rgb(8, 8, 1);
     text-align: center;
-    font-size: x-large;
-
+    font-size: 2rem ;
 }
-
-
